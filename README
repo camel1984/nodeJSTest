@@ -1,0 +1,11 @@
+npm run babel
+
+or
+
+npm run webpack
+
+
+then:
+
+node dist/babel.index.js
+node dist/webpack.index.js
